@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name		Geoguessr Distance Royale Cheat
 // @version		1.0.0
-// @description	My bot actually works retard
+// @description
 // @author		MicrowavedBunny
 // @require https://code.jquery.com/jquery-3.1.1.min.js
 // @require https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
